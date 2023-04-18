@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.first{
+	display:flex;
+	flex-direction:row wrap;
+	justify-content:space-between;
+	
+}
+.one{
+	background-color:green;
+	
+}
+.two{
+	background-color:red;
+}
+.three{
+	background-color:blue;
+}
